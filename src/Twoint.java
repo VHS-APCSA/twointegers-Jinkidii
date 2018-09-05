@@ -6,7 +6,7 @@ public class Twoint
 	public Twoint (int num, int num2)
 	{
 		this.num = num;
-		this.num2= num2;
+		this.num2 = num2;
 	}
 	public int getNum()
 	{
@@ -24,8 +24,6 @@ public class Twoint
 	{
 		this.num2 = num2;
 	}
-		public int arithmetic()
-
 	public String getSign()
 	{
 		if (num > 0)
