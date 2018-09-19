@@ -24,19 +24,4 @@ public class Twoint
 	{
 		this.num2 = num2;
 	}
-	public String getSign()
-	{
-		if (num > 0)
-		{
-			return "+";
-		}
-		else if (num < 0)
-		{
-			return "-";
-		}
-		else
-		{
-			return "0";
-		}
-	}
 }
